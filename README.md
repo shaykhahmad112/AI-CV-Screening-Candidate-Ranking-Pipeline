@@ -1,4 +1,4 @@
-# AI CV Screening & Candidate Ranking Pipeline
+# SkillSync - AI CV Screening & Candidate Ranking Pipeline
 
 ![n8n](https://img.shields.io/badge/Built%20with-n8n-orange?style=flat-square&logo=n8n)
 ![AI](https://img.shields.io/badge/AI-Gemini%201.5%20Pro-blue?style=flat-square&logo=google)
@@ -13,8 +13,8 @@
 
 ## 📸 Workflow Preview
 
-<!-- Replace with your actual n8n canvas screenshot -->
-![HireFlow Workflow](./screenshots/workflow-overview.png)
+<!-- n8n canvas screenshot -->
+![SkillSync Workflow](./screenshots/workflow-overview.png)
 
 > *23-node n8n workflow: Webhook → JD Config → PDF Download → Image Conversion → Gemini Vision Analysis → Weighted Scoring → Airtable Storage → Automated Emails + Slack Alert*
 
