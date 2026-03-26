@@ -14,7 +14,11 @@
 ## 📸 Workflow Preview
 
 <!-- n8n canvas screenshot -->
+<<<<<<< HEAD
 ![SkillSync Workflow](./screenshots/SkillSync Workflow.png)
+=======
+![SkillSync Workflow](./screenshots/Workflow-overview.png)
+>>>>>>> 48e2b51 (Updated Readme)
 
 > *23-node n8n workflow: Webhook → JD Config → PDF Download → Image Conversion → Gemini Vision Analysis → Weighted Scoring → Airtable Storage → Automated Emails + Slack Alert*
 
